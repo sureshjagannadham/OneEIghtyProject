@@ -1,5 +1,6 @@
 public class BestTimeBuySellStock121E {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         int[] nums = {7, 1, 3, 4, 6, 5};
         int ans = stock(nums);
         System.out.println(ans);
@@ -16,5 +17,6 @@ public class BestTimeBuySellStock121E {
             mini = Math.min(mini, nums[i]);
         }
         return profit;
+
     }
 }

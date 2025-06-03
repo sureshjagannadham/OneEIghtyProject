@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays-1/Arrays-1.iml" filepath="$PROJECT_DIR$/Arrays-1/Arrays-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays-2/Arrays-2.iml" filepath="$PROJECT_DIR$/Arrays-2/Arrays-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays-3/Arrays-3.iml" filepath="$PROJECT_DIR$/Arrays-3/Arrays-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearchTree/BinarySearchTree.iml" filepath="$PROJECT_DIR$/BinarySearchTree/BinarySearchTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTree-1/BinaryTree-1.iml" filepath="$PROJECT_DIR$/BinaryTree-1/BinaryTree-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTree-2/BinaryTree-2.iml" filepath="$PROJECT_DIR$/BinaryTree-2/BinaryTree-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTree-3/BinaryTree-3.iml" filepath="$PROJECT_DIR$/BinaryTree-3/BinaryTree-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph-1/Graph-1.iml" filepath="$PROJECT_DIR$/Graph-1/Graph-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreedyAlgorithm8/GreedyAlgorithm8.iml" filepath="$PROJECT_DIR$/GreedyAlgorithm8/GreedyAlgorithm8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList-2/LinkedList-2.iml" filepath="$PROJECT_DIR$/LinkedList-2/LinkedList-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListAndArrays/LinkedListAndArrays.iml" filepath="$PROJECT_DIR$/LinkedListAndArrays/LinkedListAndArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OneEighty.iml" filepath="$PROJECT_DIR$/OneEighty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursionBacktracking/RecursionBacktracking.iml" filepath="$PROJECT_DIR$/RecursionBacktracking/RecursionBacktracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack-1/Stack-1.iml" filepath="$PROJECT_DIR$/Stack-1/Stack-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack-2/Stack-2.iml" filepath="$PROJECT_DIR$/Stack-2/Stack-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings-1/Strings-1.iml" filepath="$PROJECT_DIR$/Strings-1/Strings-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pract/pract.iml" filepath="$PROJECT_DIR$/pract/pract.iml" />
+    </modules>
+  </component>
+</project>

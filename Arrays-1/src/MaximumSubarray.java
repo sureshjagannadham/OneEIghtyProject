@@ -1,10 +1,10 @@
 public class MaximumSubarray {
     public static void main(String[] args) {
         int[] nums = {-2,1,-3,4,-1,2,1,-5,4};
-        //System.out.println(maxSub(nums));
-        System.out.println(maxSubOptimal(nums));
+        System.out.println(maxSub(nums));
+       // System.out.println(maxSubOptimal(nums));
     }
-    /*
+
     static int maxSub(int[] nums)
     {
         int maxi = Integer.MIN_VALUE;
@@ -18,9 +18,9 @@ public class MaximumSubarray {
             }
         }
         return maxi;
-    }*/
+    }
 
-    static long maxSubOptimal(int[] nums)
+    /*static long maxSubOptimal(int[] nums)
     {
         long maxi = Long.MIN_VALUE;
         long sum =0;
@@ -34,5 +34,5 @@ public class MaximumSubarray {
                 sum =0;
         }
         return maxi;
-    }
+    }*/
 }

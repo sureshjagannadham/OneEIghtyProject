@@ -163,7 +163,7 @@ public class SetMatrixZeroes {
                 }
             }
         }
-        // mark first zero as zero
+        // mark first row as zero
          if(nums[0][0] == 0)
          {
              for(int j =0; j<n; j++)
